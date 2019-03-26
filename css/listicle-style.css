@@ -98,6 +98,6 @@ div.num{
 #recommendation span{
     font-weight:bold;
 }
-ul img{
+ul li div.content img{
     width:100%;
 }
